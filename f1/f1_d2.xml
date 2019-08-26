@@ -5,12 +5,12 @@
     <executionEnabled>true</executionEnabled>
     <id>891dd269-96a2-4026-8d81-f796138499cc</id>
     <loglevel>INFO</loglevel>
-    <name>t1</name>
+    <name>f1_d2</name>
     <nodeFilterEditable>false</nodeFilterEditable>
     <scheduleEnabled>true</scheduleEnabled>
     <sequence keepgoing='false' strategy='node-first'>
       <command>
-        <exec>echo hi</exec>
+        <exec>echo f1_d2</exec>
       </command>
     </sequence>
     <uuid>891dd269-96a2-4026-8d81-f796138499cc</uuid>

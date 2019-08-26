@@ -3,7 +3,7 @@
     <defaultTab>nodes</defaultTab>
     <description></description>
     <executionEnabled>true</executionEnabled>
-    <id>891dd269-96a2-4026-8d81-f796138499cc</id>
+    <id>39d72193-bb39-4103-b242-b79db835f718</id>
     <loglevel>INFO</loglevel>
     <name>t1</name>
     <nodeFilterEditable>false</nodeFilterEditable>
@@ -13,6 +13,6 @@
         <exec>echo hi</exec>
       </command>
     </sequence>
-    <uuid>891dd269-96a2-4026-8d81-f796138499cc</uuid>
+    <uuid>39d72193-bb39-4103-b242-b79db835f718</uuid>
   </job>
 </joblist>
